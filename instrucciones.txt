@@ -1,0 +1,7 @@
+
+La pagina debe de etener 2 seeeciones
+* Top 5 videos
+* Top 5 cancioens
+Elegir el layout de conveniecia
+Subir mi pagina al host
+Entregar solo el URL de la pagina
